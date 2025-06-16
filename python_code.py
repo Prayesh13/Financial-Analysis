@@ -16,7 +16,7 @@ credentials = service_account.Credentials.from_service_account_file(
 service = build('drive', 'v3', credentials=credentials)
 
 # Replace with your Google Drive folder ID
-FOLDER_ID = '18lTMpMRu0go4MDXRrUquepJiu5_0GBgf'
+FOLDER_ID = 'folder_id'
 
 def list_files(service, folder_id):
     results = service.files().list(
