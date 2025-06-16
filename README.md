@@ -73,9 +73,9 @@ This report leverages **Power Automate, Google Cloud Platform (GCP), and Python*
 This report automates financial data analysis and enhances **decision-making** through **data-driven insights**. The integration of **Power Automate, APIs, Python, and Power BI** ensures seamless data flow, providing a **robust framework** for financial evaluations.
 ---
 ---
-![Dashboard Screenshot1](report_pics/Financial Report_page-0001.jpg)
+![Dashboard Screenshot1]([report_pics/Financial Report_page-0001.jpg](https://github.com/Prayesh13/Financial-Analysis/blob/c44250ad007f7691c27ccbbc86f7c1eca951ce88/report_pics/Financial%20Report_page-0001.jpg))
 ---
-![Dashboard Screenshot2](report_pics/Financial Report_page-0002.jpg)
+![Dashboard Screenshot2]([report_pics/Financial Report_page-0002.jpg](https://github.com/Prayesh13/Financial-Analysis/blob/c44250ad007f7691c27ccbbc86f7c1eca951ce88/report_pics/Financial%20Report_page-0002.jpg))
 ---
-![Dashboard Screenshot3](report_pics/Financial Report_page-0003.jpg)
+![Dashboard Screenshot3]([report_pics/Financial Report_page-0003.jpg](https://github.com/Prayesh13/Financial-Analysis/blob/c44250ad007f7691c27ccbbc86f7c1eca951ce88/report_pics/Financial%20Report_page-0003.jpg))
 ---
