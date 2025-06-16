@@ -70,7 +70,7 @@ This report leverages **Power Automate, Google Cloud Platform (GCP), and Python*
 
 
 ## **Conclusion**
-This report automates financial data analysis and enhances **decision-making** through **data-driven insights**. The integration of **Power Automate, APIs, Python, and Power BI** ensures seamless data flow, providing a **robust framework** for financial evaluations.
+- This report automates financial data analysis and enhances **decision-making** through **data-driven insights**. The integration of **Power Automate, APIs, Python, and Power BI** ensures seamless data flow, providing a **robust framework** for financial evaluations.
 ---
 ---
 ![Dashboard Screenshot1](report_pics/Financial%20Report_page-0001.jpg)
