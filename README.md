@@ -12,8 +12,9 @@ This report leverages **Power Automate, Google Cloud Platform (GCP), and Python*
 - **API Integration:** Google Cloud Platform (GCP) facilitates communication between Power BI and stored files.
 - **Data Transport System:** Python scripts automate data transfer and refresh the Power BI model.
 
-![Automation Workflow diagram](report_pics/automation-worflow.png)
+![Automation Workflow diagram](report_pics/automation-workflow.png)
 
+---
 ## **Key Analyses Conducted**
 ### **1. Financial Metrics Overview**
 - **Average Annual Income**
